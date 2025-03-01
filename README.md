@@ -12,3 +12,4 @@
 * Ruben Felipe Tovar Aviles
 
 [Juego Practica](https://kahoot.it/solo/?quizId=ec6208a7-4504-4f17-960d-ff8438b85573 "Polimorfismo Swift")
+[Exposicion Polimorfismo](https://youtu.be/cfBte6pCjwY "Polimorfismo Swift")
